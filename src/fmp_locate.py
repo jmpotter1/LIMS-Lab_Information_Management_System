@@ -1,6 +1,7 @@
 import 'google_search'
 import 'facebook_search'
 import 'instagram_search'
+import 'snapchat_search'
 import 'x_search'
 import 'twitter_search'
 import 'truth_media_search'
