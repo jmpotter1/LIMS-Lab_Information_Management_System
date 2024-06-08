@@ -27,6 +27,8 @@ int school_shooter_traits() {
     printf("%s", leakageClueForms[9]);
     printf("%s", leakageClueForms[10]);
 
+    printf("%s", leakageExamples[0]); // the possible code for outputing the Leakage examples for the traits of a school shooter
+
     printf("Leakage can also be a cry for help, a sign of inner conflict, or boasts that may look empty but actually express a serious threat.");
     printf("Leakage is considered to be one of the most important clues that may precede an adolescent's violent acts.");
 
