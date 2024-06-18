@@ -30,4 +30,5 @@ world_trade_center_attacks = {
 	"Known Fugitive": "Salem Alhazmi",
 	"Known Fugitive": "Marwan Alshehhi",
 	"Known Fugitive Alt Name": "Marwan A"
+	"Date of Criminal Activity": "September 11, 2001",
 }
