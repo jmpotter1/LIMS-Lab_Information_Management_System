@@ -5,8 +5,8 @@ int school_shooter_traits() {
     
     char leakageClues[] = {"subtle threats", "boasts", "innuendos", "predictions", "ultimatums"};
     char leakageClueForms[] = {"spoken", "conveyed in stories", "diary entries", "essays", "poems", "letters", "songs", "drawings", "doodles", "tattoos", "videos"};
-    char leakageExamples[] = "a student who shows a recurring preoccupation with themes of violence, hopelessness, dispair, hatred, isolation, loneliness, nihilism, or an 'end of the world' philosphy. 
-                              Those Themes may be expressed in conversation, or in jokes";
+    char leakageExamples[] = """a student who shows a recurring preoccupation with themes of violence, hopelessness, dispair, hatred, isolation, loneliness, nihilism, or an 'end of the world' philosphy. 
+                              Those Themes may be expressed in conversation, or in jokes""";
 
 
     printf("%s", leakageClues[0]);
